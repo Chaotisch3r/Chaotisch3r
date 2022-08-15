@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaotisch3r
 - 👀 I’m interested in Japanese, Programming and other stuff like that.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Python, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
