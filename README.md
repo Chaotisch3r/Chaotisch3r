@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, Programming and other stuff like that.
 - 🌱 I’m currently learning Java, C#, HTML, CSS, JS and PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="www.twitter.com/chaotisch3r">Twitter</a>
+- 📫 How to reach me: <a href="https://www.twitter.com/chaotisch3r">Twitter</a>
 
 <!---
 Chaotisch3r/Chaotisch3r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
